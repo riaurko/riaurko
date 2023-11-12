@@ -3,6 +3,8 @@
 <h1 align="center">Hello! 👋, me Rakibul Islam</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
+<img src="https://github.com/riaurko/riaurko/blob/main/gif1.gif" width="300" align="right"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20views&color=0e75b6&style=flat" alt="riaurko" /> </p>
 
 <p align="left"> <a href="https://twitter.com/riaurko" target="blank"><img src="https://img.shields.io/twitter/follow/riaurko?logo=twitter&style=for-the-badge" alt="riaurko" /></a> </p>
