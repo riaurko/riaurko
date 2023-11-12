@@ -1,3 +1,5 @@
+![logo](https://github.com/riaurko/riaurko/blob/main/Banner.jpeg)
+
 <h1 align="center">Hello! 👋, me Rakibul Islam</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
