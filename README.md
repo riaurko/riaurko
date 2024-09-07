@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1_Yl-zq1ZSJSMh1WTcRcCSCJPGMd0plxN/view?usp=sharing)]()
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5622AQHJgMjNp_HxjQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725736412211?e=1728518400&v=beta&t=i2PTQTvZY3dr0rz325fVV0ivUtJU7VCbkwsyPuxKv2Y)]()
 <h1 align="center">👋, It's Ahmad</h1>
 <h3 align="center">Revealing Frontend & WordPress Developer: Full-Stack Developer on the Rise.</h3>
 
