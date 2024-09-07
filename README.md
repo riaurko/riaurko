@@ -2,7 +2,7 @@
 <h1 align="center">👋, It's Ahmad</h1>
 <h3 align="center">Revealing Frontend & WordPress Developer: Full-Stack Developer on the Rise.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20views&color=0e75b6&style=flat" alt="riaurko" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20views&color=0e75b6&style=flat" alt="riaurko" /></p>
 
 <p align="left"> <a href="https://twitter.com/riaurko" target="blank"><img src="https://img.shields.io/twitter/follow/riaurko?logo=twitter&style=for-the-badge" alt="riaurko" /></a> </p>
 
