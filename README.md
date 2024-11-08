@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH5z_11SHxt5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723172259434?e=1736380800&v=beta&t=O8dzKXkGcKzw_M2lJb3gEvuKhwfikefBgaV59NCX9vg)]()
-<h1 align="center">🫡 Rakibul Islam Ahmad</h1>
-<h3 align="center">   Full Stack Developer</h3>
+<h1 align="center">🫡 Rakibul Islam Ahmad 🥳</h1>
+<h3 align="center">    Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20views&color=0e75b6&style=flat" alt="riaurko" /></p>
 
