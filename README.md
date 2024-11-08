@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **www.linkedin.com/in/riaurko**
 
-- ⚡ Fun fact ***"The Evergreen Learner"***
+- ⚡ Fun fact ***The Evergreen Learner***
 
-- 💓 Love ***"Travelling"***
+- 💓 Love *#*#*Travelling*#*#*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
