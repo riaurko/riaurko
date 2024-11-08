@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **Water Technology**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MySQL, C and Python**
 
-- 👨‍💻 All of my projects are available at [riaurko.42web.io](riaurko.42web.io)
+- 👨‍💻 All of my projects will be available at https://riaurko.com
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, MongoDB, C, C++, DSA, Python, MySQL & Django.**
 
 - 📫 How to reach me **www.linkedin.com/in/riaurko**
 
-- ⚡ Fun fact **"The Family Man"**
+- ⚡ Fun fact **"The Evergreen Learner"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
