@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH5z_11SHxt5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723172259434?e=1736380800&v=beta&t=O8dzKXkGcKzw_M2lJb3gEvuKhwfikefBgaV59NCX9vg)]()
 <h1 align="center">👋 It's Ahmad</h1>
-<h3 align="center">Revealing Frontend Developer: Full-Stack Developer on the Rise...</h3>
+<h2 align="center">Backend Developer || Revealing Frontend & WordPress Developer: Full-Stack Developer on the Rise...</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20views&color=0e75b6&style=flat" alt="riaurko" /></p>
 
@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects will be available at https://riaurko.com
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, MongoDB, C, C++, DSA, Python, MySQL & Django.**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, MongoDB, C, C++, DSA, Python, MySQL & Django**
 
 - 📫 How to reach me **www.linkedin.com/in/riaurko**
 
 - ⚡ Fun fact ***"The Evergreen Learner"***
 
-- 💓 Love *#"Travelling#*"
+- 💓 Love ***"Travelling"***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
