@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5622AQEwHvKXNmDH-A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725736987761?e=1728518400&v=beta&t=R0ppA2UAht8zxXRBEMWxtgLm9JVSp5gFnO41BR6CfpY)]()
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH5z_11SHxt5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723172259434?e=1736380800&v=beta&t=O8dzKXkGcKzw_M2lJb3gEvuKhwfikefBgaV59NCX9vg))]()
 <h1 align="center">👋 It's Ahmad</h1>
 <h3 align="center">Revealing Frontend Developer: Full-Stack Developer on the Rise...</h3>
 
