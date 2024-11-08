@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Water Technology**
 
-- 🌱 I’m currently learning **MySQL, C and Python**
+- 🌱 I’m currently learning **MySQL and Python**
 
 - 👨‍💻 All of my projects will be available at https://riaurko.com
 
