@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects will be available at https://riaurko.com
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, MongoDB, C, C++, DSA, Python, MySQL & Django**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, C, C++, DSA, Python, MySQL & Django**
 
 - 📫 How to reach me **www.linkedin.com/in/riaurko**
 
