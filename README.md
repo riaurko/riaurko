@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHFHhjb6SQWYw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738191940816?e=1743638400&v=beta&t=mC53QohddJPd1t1IyokTUs5BUIZZ-FKV7li46PwdmQo)]()
-<h1 align="center">🫡 Rakibul Islam Ahmad 🥳</h1>
-<h3 align="center">    Full Stack Developer</h3>
+<h1 align="center">Rakibul Islam</h1>
+<h3 align="center">Expertise Curation - WebSoft Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20views&color=0e75b6&style=flat" alt="riaurko" /></p>
 
