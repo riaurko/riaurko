@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHFHhjb6SQWYw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738191940816?e=1750291200&v=beta&t=FNIb0uDdHVn-0M5ZIWlZhrRF72LxhuDk3erFejfAd_0)]()
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEcSE-3qH6P5w/profile-displaybackgroundimage-shrink_350_1400/B4DZZsq0K6HwAY-/0/1745579885983?e=1750896000&v=beta&t=25xvVMbYsiSJZiyrqz70_UdHaNzw3Gf2WsDSUIyGtV4)]()
 <h1 align="center">Rakibul Islam</h1>
 <h3 align="center">Expertise Curation - WebSoft Development</h3>
 
